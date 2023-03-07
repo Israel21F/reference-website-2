@@ -24,4 +24,10 @@ function problem1() {
 // Start function for problem 2
 function problem2() {
   
+  alert(min(30, 24));
 }
+
+function min(num1, num2) {
+    min < 24;
+}
+  
