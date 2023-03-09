@@ -13,6 +13,7 @@ function problem1() {
 var travelList = ["Guatemala", "Washignton DC", "Hawaii", "New Mexico", "Iceland"]
 var name = travelList[5];
 console.log(name);
+travelList[1] = "Guatemala";
 
 }
 
@@ -21,4 +22,5 @@ function problem2(){
 var numList = ["2", "3", "5", "7","11"]
 var name = numList[5];
 console.log(name);
+numList [1] = "2"
 }
